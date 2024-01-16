@@ -15,3 +15,5 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlafuente&layout=compact&theme=dark&hide_border=true&size_weight=1)
+
+[![Data](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexlafuente&theme=github_dark)](https://github.com/alexlafuente)
