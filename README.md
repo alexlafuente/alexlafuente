@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A computer engineering student from Spain</h3>
 
-- 🌱 I’m currently learning **C**, **C++** and **Python**
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
