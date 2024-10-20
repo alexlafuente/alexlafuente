@@ -12,6 +12,7 @@
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png?20230524144527" alt="opengl" width="96"
                                                                         height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="qt" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/archlinux-3521282-2944701.png?f=avif&w=512" alt="archlinux" width="40" height="40"/> </a>
 </p>
